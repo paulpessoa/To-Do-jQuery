@@ -28,6 +28,10 @@ body {
     font-size: 18px;
 }
 
+h1 {
+    text-align: center;
+}
+
 h3 {
     margin: 10px 0;
 }
